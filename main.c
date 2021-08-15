@@ -26,7 +26,6 @@ float p (float x, float y)
 }
 
 
-//ВЕДУТСЯ ТЕХНИЧЕСКИЕ РАБОТЫ, НАСЯИНИКА
 /*double complex h(float delta_z)
 {
     printf("ok/n");
